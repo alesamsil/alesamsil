@@ -3,7 +3,7 @@
  * Carioca
  * Apaixonado por tecnologias
 
-##### Graduações em curso:
+#### Graduações em curso:
 * Ciência da Computação, Universidade Federal Fluminense (UFF)
 * Design Gráfico Escola de Comunicação e Design Digital (ECDD), Instituto
 INFNET
