@@ -8,6 +8,10 @@
 * Design Gráfico Escola de Comunicação e Design Digital (ECDD), Instituto
 INFNET
 
+#### Interesses
+* Pensamento Computacional
+* UX/UI
+
 
 <div>
   <a href="https://github.com/alesamsil">
