@@ -1,5 +1,5 @@
 <img align="right" alt="response" height="100" width="100" src="https://image.flaticon.com/icons/png/512/2868/2868100.png">
-<div>
+
 ## Olá! 👋 
 ### Eu sou o Alessandro Sampaio (Alesamsil)
  * Carioca
@@ -9,8 +9,7 @@
 #### Interesses
 * Pensamento Computacional
 * UX/UI
-  
-  </div>
+
 
 <div>
   <a href="https://github.com/alesamsil">
