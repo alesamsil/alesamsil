@@ -31,6 +31,7 @@ INFNET
   <!--<img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   <img align="center" alt="premierepro" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="aftereffects" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
+  <img align="center" alt="Photoshop" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="ilustrator" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
 </div>
   
