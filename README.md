@@ -29,10 +29,10 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="center" alt="premierepro" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="aftereffects" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="Photoshop" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="ilustrator" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
+  <img align="center" alt="premierepro" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/52/34_-_Adobe_Premiere_Pro_Flat-128.png">
+  <img align="center" alt="aftereffects" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/52/30_-_Adobe_After_Effects_Flat-128.png">
+  <img align="center" alt="Photoshop" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/52/39_-_Adobe_Photoshop_Flat-128.png">
+  <img align="center" alt="ilustrator" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/52/40_-_Adobe_Illustrator_Flat-128.png">
 </div>
   
 ##  
