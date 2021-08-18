@@ -1,4 +1,4 @@
-<img align="right" alt="response" height="150" width="150" src="https://image.flaticon.com/icons/png/512/2868/2868100.png">
+<img align="right" alt="response" height="200" width="200" src="https://image.flaticon.com/icons/png/512/2868/2868100.png">
 
 ## Olá! 👋 
 ### Eu sou o Alessandro Sampaio (Alesamsil)
