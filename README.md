@@ -2,11 +2,7 @@
 ### Eu sou o Alessandro Sampaio (Alesamsil)
  * Carioca
  * Apaixonado por tecnologias
-
-#### Graduações em curso:
-* Ciência da Computação, Universidade Federal Fluminense (UFF)
-* Design Gráfico Escola de Comunicação e Design Digital (ECDD), Instituto
-INFNET
+ * Graduando em Ciência da Computação e Design Gráfico 
 
 #### Interesses
 * Pensamento Computacional
