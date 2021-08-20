@@ -1,6 +1,10 @@
 <!-- <img align="right" alt="response" height="200" width="200" src="https://img-premium.flaticon.com/png/512/752/premium/752465.png?token=exp=1629260896~hmac=d731a86ebaf1a4365d87595926e29c5a"> -->
 <img align="right" alt="pantone" height="230em" width="230em" src="https://image.flaticon.com/icons/png/512/291/291029.png">
-
+<style>
+ body{
+  font-size:22px;
+  }
+</style>
 
 ## Olá! 👋 
 ### Eu sou o Alessandro Sampaio (Alesamsil)
