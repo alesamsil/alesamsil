@@ -1,5 +1,5 @@
 <!-- <img align="right" alt="response" height="200" width="200" src="https://img-premium.flaticon.com/png/512/752/premium/752465.png?token=exp=1629260896~hmac=d731a86ebaf1a4365d87595926e29c5a"> -->
-<img align="right" alt="pantone" height="230em" width="230em" src="https://image.flaticon.com/icons/png/512/291/291029.png">
+<img align="right" alt="pantone" height="230em" width="230em" src="https://as2.ftcdn.net/v2/jpg/05/26/29/99/1000_F_526299909_wsFklwnUli42BQifdwK6bi4I3EThJXgT.webp">
 
 ## Olá! 👋 
 ### Eu sou o Alessandro Sampaio (Alesamsil)
