@@ -5,11 +5,12 @@
 ### Eu sou o Alessandro Sampaio (Alesamsil)
  * Carioca
  * Apaixonado por tecnologias
- * Graduando em Ciência da Computação e Design Gráfico 
+ * Graduado em Ciência da Computação e Design Gráfico 
 
 #### Interesses
 * Pensamento Computacional
 * UX/UI
+* Inteligência Artificial
 
 
 <div>
